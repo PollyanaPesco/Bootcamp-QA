@@ -1,1 +1,2 @@
-# Meu projeto na Tripleten
+# Meu primeiro projeto na Tripleten 
+Neste projeto, desempenhei o papel de decompor e visualizar os requisitos por meio de um mapa mental, um fluxograma e uma tabela. Além disso, assumi a responsabilidade de definir os objetos de teste e elaborar testes de design. Conduzi uma análise detalhada dos requisitos, identificando áreas de cinzentas e fornecendo especificações claras. Adicionalmente, redigi casos de teste abrangentes para garantir a eficácia do processo de testes. A tarefa consistia em duas partes: particionar classes de equivalência e fazer o design de vários casos de teste básicos.
